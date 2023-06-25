@@ -1,0 +1,4 @@
+
+    <jsplugins>
+      <jspluginonline name="wps-plugin" type="wps" url="https://xxxxxx.com/"/>
+    </jsplugins>
