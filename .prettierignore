@@ -1,0 +1,8 @@
+# 忽略build目录下类型为js的文件的语法检查
+node_modules
+# 忽略public目录下文件的语法检查
+# public
+# 忽略dist目录下文件的语法检查
+dist
+
+public/.debugTemp
