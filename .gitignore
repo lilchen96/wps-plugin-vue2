@@ -1,6 +1,6 @@
 node_modules
 dist
 public/.debugTemp
-# wps-addon-build
-# wps-addon-jsplugins
-# wps-addon-publish
+wps-addon-build
+wps-addon-jsplugins
+wps-addon-publish
