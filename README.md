@@ -2,7 +2,7 @@
 
 ## 介绍
 
-开箱即用的WPS加载项插件。
+开箱即用的WPS加载项插件，使用vue2框架开发。
 
 
 [WPS加载项官方文档](https://open.wps.cn/docs/client/wpsLoad)
